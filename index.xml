@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YintingChen</title>
-    <link>http://www.example.com/</link>
+    <link>https://yintingchen.github.io/</link>
     <description>Recent content on YintingChen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://yintingchen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello!</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://yintingchen.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://yintingchen.github.io/about/</guid>
       <description>我收集故事。
 创造故事。</description>
     </item>
