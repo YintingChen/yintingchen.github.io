@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>YintingChen</title>
-    <link>https://yintingchen.github.io/</link>
-    <description>Recent content on YintingChen</description>
+    <title>Posts on YintingChen</title>
+    <link>https://yintingchen.github.io/posts/</link>
+    <description>Recent content in Posts on YintingChen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yintingchen.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello!</title>
-      <link>https://yintingchen.github.io/about/</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yintingchen.github.io/about/</guid>
-      <description>我收集故事。
-创造故事。</description>
-    </item>
-    
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yintingchen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>当我可以毫不犹豫地放弃现在的人生 — 观看《特写(Close-up)》</title>
       <link>https://yintingchen.github.io/posts/2023_0320_close-up/</link>
