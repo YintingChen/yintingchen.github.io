@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>硬技能 on 盛夏集</title>
+    <link>https://yintingchen.github.io/tags/%E7%A1%AC%E6%8A%80%E8%83%BD/</link>
+    <description>Recent content in 硬技能 on 盛夏集</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Yinting</copyright>
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yintingchen.github.io/tags/%E7%A1%AC%E6%8A%80%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calculus Functions and Models</title>
+      <link>https://yintingchen.github.io/posts/00003-calculus_functions/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yintingchen.github.io/posts/00003-calculus_functions/</guid>
+      <description>1 - 定义 function # A function \(f\) is a rule that
+assigns exactly one element \(f(x) \in E\)
+to each element \(x \in D\).
+换句话说，如果同一个 \(x\) 对应了两个 \(y\) 值，那就不是 function。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yintingchen.github.io/posts/00003-calculus_functions/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
