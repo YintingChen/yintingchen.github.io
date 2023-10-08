@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>好玩的事 on 盛夏集</title>
+    <link>https://yintingchen.com/tags/%E5%A5%BD%E7%8E%A9%E7%9A%84%E4%BA%8B/</link>
+    <description>Recent content in 好玩的事 on 盛夏集</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Yinting</copyright>
+    <lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yintingchen.com/tags/%E5%A5%BD%E7%8E%A9%E7%9A%84%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>给小横做个人网站</title>
+      <link>https://yintingchen.com/posts/00004-website_design/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yintingchen.com/posts/00004-website_design/</guid>
+      <description>今日晚起。阴天的周六，精神软散。
+1 # 躺床上阅读了紫金陈的《低智商犯罪》的第1至23章。
+本书和之前的 “高智商犯罪” 系列文风有很大区别，虽诙谐之处多有雕琢之感，读来大体还是令人忍俊不禁。
+叶剑留下的线索指向水疗会所，宋星的脑子只能想到扫黄把场子端了，把人抓回来审。谁想领导居然还能这样操作，放着水疗会所，把市长钓出来，说不定还能钓出其他人。古有兵法围点打援，今有张局围会所打市长，这不是刑侦专家，这简直就是刑侦艺术家啊！ 里面多方角色陆续登场，有靠直觉破案的局长，有市委书记和市长的斗法，有盗贼，有当地首富，有新城开发委员会，整个故事由一条省厅掌握的报案线索展开。
+“他永远都是骑自行车，永远都是破自行车，哪怕车坏了，换的还是破车！一般的贪官，根本不需要伪装到这地步，所以，这胖子不仅是贪官，而且一定是巨贪！”方超自信十足地做出结论。 目前这各方人马基本上由一组编钟联系到一起。我很期待后续故事的发展。
+2 # 今日给小横完成了她的个人网站的设计和建立。过程还是蛮有趣的。 TemonWhale.com 这个网站主要目的是用来呈现小横的音乐作品，自然色调要选择鲜活些的，不能像我的那般暗。
+自然，重中之重是每一首歌的单独页面，既要满足播放、分享的功能性，又要简洁。所以我下了比较大的功夫去考虑如何安排链接、如何设计和配色按钮。
+一个惊喜是，小横平日的涂画非常适合于作为其各个页面的发散的背景图。线条，颜色，还有感觉，都非常适合。
+我为自己设计网站的时候，并没有在域名的选择上，放置足够多的关注。
+但是今天为了将购买的域名和 GitHub 的默认名联系起来，我还是花费了一些功夫去读了文档。
+文档依旧写得长而失却重点。事实上，需要的就三句话：
+1 - 在域名网站上配置适合于 GitHub 转接用的 ip
+2 - 在 GitHub 网站文档中创建 CNAME 文件，不留任何空格，里面仅仅写上 https://xxx.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yintingchen.com/posts/00004-website_design/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

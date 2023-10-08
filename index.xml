@@ -7,7 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Yinting</copyright>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yintingchen.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yintingchen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>给小横做个人网站</title>
+      <link>https://yintingchen.com/posts/00004-website_design/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yintingchen.com/posts/00004-website_design/</guid>
+      <description>今日晚起。阴天的周六，精神软散。
+1 # 躺床上阅读了紫金陈的《低智商犯罪》的第1至23章。
+本书和之前的 “高智商犯罪” 系列文风有很大区别，虽诙谐之处多有雕琢之感，读来大体还是令人忍俊不禁。
+叶剑留下的线索指向水疗会所，宋星的脑子只能想到扫黄把场子端了，把人抓回来审。谁想领导居然还能这样操作，放着水疗会所，把市长钓出来，说不定还能钓出其他人。古有兵法围点打援，今有张局围会所打市长，这不是刑侦专家，这简直就是刑侦艺术家啊！ 里面多方角色陆续登场，有靠直觉破案的局长，有市委书记和市长的斗法，有盗贼，有当地首富，有新城开发委员会，整个故事由一条省厅掌握的报案线索展开。
+“他永远都是骑自行车，永远都是破自行车，哪怕车坏了，换的还是破车！一般的贪官，根本不需要伪装到这地步，所以，这胖子不仅是贪官，而且一定是巨贪！”方超自信十足地做出结论。 目前这各方人马基本上由一组编钟联系到一起。我很期待后续故事的发展。
+2 # 今日给小横完成了她的个人网站的设计和建立。过程还是蛮有趣的。 TemonWhale.com 这个网站主要目的是用来呈现小横的音乐作品，自然色调要选择鲜活些的，不能像我的那般暗。
+自然，重中之重是每一首歌的单独页面，既要满足播放、分享的功能性，又要简洁。所以我下了比较大的功夫去考虑如何安排链接、如何设计和配色按钮。
+一个惊喜是，小横平日的涂画非常适合于作为其各个页面的发散的背景图。线条，颜色，还有感觉，都非常适合。
+我为自己设计网站的时候，并没有在域名的选择上，放置足够多的关注。
+但是今天为了将购买的域名和 GitHub 的默认名联系起来，我还是花费了一些功夫去读了文档。
+文档依旧写得长而失却重点。事实上，需要的就三句话：
+1 - 在域名网站上配置适合于 GitHub 转接用的 ip
+2 - 在 GitHub 网站文档中创建 CNAME 文件，不留任何空格，里面仅仅写上 https://xxx.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yintingchen.com/posts/00004-website_design/featured.jpg" />
+    </item>
+    
     <item>
       <title>Calculus Functions and Models</title>
       <link>https://yintingchen.com/posts/00003-calculus_functions/</link>
@@ -23,15 +45,15 @@ to each element \(x \in D\).
     
     <item>
       <title>这一页已经翻过去了</title>
-      <link>https://yintingchen.com/posts/00002-elon_musk_part_1/</link>
+      <link>https://yintingchen.com/posts/00002-elon_musk_biography/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://yintingchen.com/posts/00002-elon_musk_part_1/</guid>
+      <guid>https://yintingchen.com/posts/00002-elon_musk_biography/</guid>
       <description>前天收到 Walter Isaacson 书写的马斯克传，这两天除了搭建我的这个个人网站之外，就是在阅读这本书。
 我近来喜欢上阅读传记。因为有一些特别的东西，我认为可以在阅读传记里学到。我现在正在阅读的有，傅高义书写的《邓小平时代》（Deng Xiaoping and the Transformation of China），Doris Kearns Goodwin 写著的《林肯传》（Team of Rivals: The Political Genius of Abraham Lincoln），这本新出版的《马斯克传》，以及其作者 Walter Isaacson 十年前所著的《乔布斯传》。
 对这些传记感兴趣，一是因为传主都是影响广泛的人物，二是书写这些传记的作者本身也是功力了得。《邓小平时代》严格来说并不能算是邓小平的传记，而是通过邓小平这一贯穿其中的人物，来描绘中国波澜壮阔的改革开放时代。这一点从作者大胆的章节划分就可看出，此书的第一章囊括了邓小平从出生到64岁的事情，后面剩余的23章写的都是邓65岁之后的事。几乎没有传记是这样子做结构安排的。当然，也可以从此侧面看出邓小平其人生的独特性。
 那三本书都是在传主逝去之后才出版的，唯独马斯克传的传主犹在世，而且近来亦相当活跃，特别是在其收购了Twitter之后。为活人写传不易，特别是为一个影响力如此之大的活人。好在看马斯克和 Isaacson 的推文，可以知道 Isaacson 写作这本传记时，和他为乔布斯作传时相似，都得到了很大的书写自由和采访自由，马斯克自己还强调了在此书正式出版之前，他都没阅读过。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yintingchen.com/posts/00002-elon_musk_part_1/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yintingchen.com/posts/00002-elon_musk_biography/featured.jpg" />
     </item>
     
     <item>
