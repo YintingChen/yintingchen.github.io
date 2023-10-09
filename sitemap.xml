@@ -18,6 +18,8 @@
     
   
     
+  
+    
       <url>
             <loc>https://yintingchen.com/posts/</loc>
             <lastmod>2023-10-08T00:00:00+00:00</lastmod>
@@ -29,9 +31,22 @@
     
   
     
+  
+    
+      <url>
+            <loc>https://yintingchen.com/posts/00005-calculating_limits/</loc>
+            <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
       <url>
             <loc>https://yintingchen.com/posts/00004-website_design/</loc>
-            <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+            <lastmod>2023-10-07T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -46,8 +61,6 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
@@ -80,8 +93,6 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
