@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://yintingchen.com/sitemap.xml
+Sitemap: https://www.yintingchen.com/sitemap.xml
