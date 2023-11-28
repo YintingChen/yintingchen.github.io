@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Home</title>
-    <link>https://www.yintingchen.com/tags/</link>
+    <link>https://yintingchen.com/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Yinting</copyright>
-    <lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yintingchen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yintingchen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>life</title>
-      <link>https://www.yintingchen.com/tags/life/</link>
+      <link>https://yintingchen.com/tags/life/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yintingchen.com/tags/life/</guid>
+      <guid>https://yintingchen.com/tags/life/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>detective-novels</title>
-      <link>https://www.yintingchen.com/tags/detective-novels/</link>
+      <link>https://yintingchen.com/tags/detective-novels/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yintingchen.com/tags/detective-novels/</guid>
+      <guid>https://yintingchen.com/tags/detective-novels/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>games</title>
-      <link>https://www.yintingchen.com/tags/games/</link>
+      <link>https://yintingchen.com/tags/games/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yintingchen.com/tags/games/</guid>
+      <guid>https://yintingchen.com/tags/games/</guid>
       <description></description>
       
     </item>

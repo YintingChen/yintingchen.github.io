@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Years on Home</title>
-    <link>https://www.yintingchen.com/categories/</link>
+    <link>https://yintingchen.com/categories/</link>
     <description>Recent content in Years on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Yinting</copyright>
-    <lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yintingchen.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yintingchen.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023-11</title>
-      <link>https://www.yintingchen.com/categories/2023-11/</link>
+      <link>https://yintingchen.com/categories/2023-11/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yintingchen.com/categories/2023-11/</guid>
+      <guid>https://yintingchen.com/categories/2023-11/</guid>
       <description></description>
       
     </item>
