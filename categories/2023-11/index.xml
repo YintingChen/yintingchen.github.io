@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Yinting</copyright>
-    <lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yintingchen.com/categories/2023-11/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yintingchen.com/categories/2023-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic programming</title>
+      <link>https://yintingchen.com/posts/00004-dynamic_programming/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yintingchen.com/posts/00004-dynamic_programming/</guid>
+      <description>The essential idea of dynamic programming is to save the result for future use.
+For example, if I have already know 1+2+3 equals 6 and saved the result at a place, then when I have to calculate 1+2+3+4, I just have to calculate 6+4 instead of going from scratch.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yintingchen.com/posts/00004-dynamic_programming/feature.jpg" />
+    </item>
+    
     <item>
       <title>Who should be the manager</title>
       <link>https://yintingchen.com/posts/00003-who_should_be_the_manager/</link>
