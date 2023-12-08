@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Home</title>
+    <link>https://raphaelchen.com/music/</link>
+    <description>Recent content in Music on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Raphael Chen</copyright>
+    <lastBuildDate>Mon, 27 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://raphaelchen.com/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I will post on my blog</title>
+      <link>https://raphaelchen.com/music/00002-what_i_will_post_on_my_blog/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://raphaelchen.com/music/00002-what_i_will_post_on_my_blog/</guid>
+      <description>I have finished building my personal blog recently and now any post can be smoothly published. So immediately the next comes to me is what will I post on my blog?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://raphaelchen.com/music/00002-what_i_will_post_on_my_blog/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
