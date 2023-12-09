@@ -4,37 +4,37 @@
 
   <url>
     <loc>https://yintingchen.com/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://yintingchen.com/posts/00005-devouring_lovers_and_a_christmas_market/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <loc>https://yintingchen.com/posts/00005-to_get_good_ideas/</loc>
+    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://yintingchen.com/posts/</loc>
+    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://yintingchen.com/posts/00004-devouring_lovers_and_a_christmas_market/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://yintingchen.com/posts/00004-dynamic_programming/</loc>
+    <loc>https://yintingchen.com/posts/00003-dynamic_programming/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://yintingchen.com/posts/00003-who_should_be_the_manager/</loc>
+    <loc>https://yintingchen.com/posts/00002-who_should_be_the_manager/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://yintingchen.com/posts/00002-what_i_will_post_on_my_blog/</loc>
-    <lastmod>2023-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
